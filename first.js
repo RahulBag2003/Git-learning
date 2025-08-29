@@ -5,3 +5,5 @@ const account =230;
 function balanceChack(){
     balance+=20;
 }
+balanceChack();
+console.log("hello dunia");
