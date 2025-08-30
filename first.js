@@ -6,3 +6,4 @@ function UpdateBalance(){
     balance+=20;
 }
 UpdateBalance();
+console.log(balance);
