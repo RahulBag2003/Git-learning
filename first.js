@@ -1,5 +1,5 @@
 const name="rohit";
-const age=20;
+const age=200;
 const balance=400;
 console.log("hellow Everyone");
 function UpdateBalance(){
@@ -14,4 +14,9 @@ console.log("Rahul");
 function showAge(val){
     console.log(age+val);
 }
-showAge(10);
+showAge();
+
+function showName(){
+    console.log(name);
+}
+showName();
