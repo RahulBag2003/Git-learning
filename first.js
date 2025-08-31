@@ -8,3 +8,5 @@ function UpdateBalance(){
 UpdateBalance();
 console.log(balance);
 console.log("MAi hu hero Tera");
+console.log ("Money Honey");
+console.log("Rahul");
