@@ -7,3 +7,5 @@ function UpdateBalance(){
 }
 UpdateBalance();
 console.log(balance);
+console.log ("Money Honey");
+console.log("Rahul");
