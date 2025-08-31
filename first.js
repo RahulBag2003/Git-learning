@@ -10,3 +10,8 @@ console.log(balance);
 console.log("MAi hu hero Tera");
 console.log ("Money Honey");
 console.log("Rahul");
+
+function showAge(){
+    console.log(age);
+}
+showAge();
