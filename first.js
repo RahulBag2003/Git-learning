@@ -11,7 +11,7 @@ console.log("MAi hu hero Tera");
 console.log ("Money Honey");
 console.log("Rahul");
 
-function showAge(){
-    console.log(age);
+function showAge(val){
+    console.log(age+val);
 }
-showAge();
+showAge(10);
