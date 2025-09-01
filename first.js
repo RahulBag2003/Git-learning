@@ -22,3 +22,7 @@ showName();
 
 console.log("latest changes of the code")
 console.log("changes done by rahul");
+
+// i am fixing some bugs
+console.log("bug fixed");
+
