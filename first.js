@@ -14,9 +14,9 @@ console.log("Rahul");
 function showAge(val){
     console.log(age+val);
 }
-showAge();
-
+showAge(10);
 function showName(){
     console.log(name);
 }
 showName();
+
